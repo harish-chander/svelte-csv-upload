@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anderslatif/svelte-csv-upload"
+    "url": "git+https://github.com/harish-chander/svelte-csv-upload"
   },
   "keywords": [
     "Svelte",
