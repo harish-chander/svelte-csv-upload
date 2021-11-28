@@ -1,5 +1,5 @@
 {
-  "name": "upload-csv-svelte1",
+  "name": "upload-csv-svelte",
   "version": "0.0.4",
   "description": "An uploader and parser for CSV files for Svelte",
   "author": "Anders Latif",
